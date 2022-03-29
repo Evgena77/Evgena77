@@ -1,0 +1,11 @@
+{
+  "name": "FreeStreamer",
+  "version": "3.5.0",
+  "license": "BSD",
+  "summary": "A low-memory footprint streaming audio client for iOS and OS X.",
+  "homepage": "http://muhku.github.io/FreeStreamer/",
+  "authors": {
+    "Matias Muhonen": "mmu@iki.fi"
+  },
+  "source": {
+    "git": "https://github.com/muhku/FreeStreamer.git",
